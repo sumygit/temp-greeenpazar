@@ -3,11 +3,7 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
 import { LuArrowUpDown } from "react-icons/lu";
 
-type SortOptions = {
-  value: string;
-  label: string;
-  showInfoIcon?: boolean;
-};
+type SortOptions = { value: string; label: string; showInfoIcon?: boolean };
 const sortOptions: SortOptions[] = [
   { value: "suggested", label: "Önerilen Sıralama", showInfoIcon: true },
   { value: "price_asc", label: "En Düşük Fiyat" },
@@ -24,19 +20,19 @@ function ProductsSortDropdown() {
   const searchParams = useSearchParams();
   const pathname = usePathname();
   const { replace } = useRouter();
-  
+
   const activeSortValue = searchParams.get("sort") ?? defaultSortValue;
   const activeSelectValue =
-    sortOptions.find((option) => option.value ===activeSortValue) ?? sortOptions[0];
+    sortOptions.find((option) => option.value === activeSortValue) ??
+    sortOptions[0];
 
   const handleSelectValue = (value: string) => {
     console.log(value);
     const params = new URLSearchParams(searchParams.toString());
     if (!value || value === "suggested") {
-    
-	    params.delete("sort");
+      params.delete("sort");
     } else {
-       params.set("sort", value);
+      params.set("sort", value);
     }
     replace(`${pathname}?${params.toString()}`);
     setIsOpen(false);
@@ -44,11 +40,15 @@ function ProductsSortDropdown() {
 
   return (
     <div
-      className=" w-50 border rounded-md  border-brand-green hover:bg-brand-green cursor-pointer group  transition-all duration-300 relative"
+      role="button"
+      className=" w-52 border rounded-md  border-brand-green hover:bg-brand-green cursor-pointer group  transition-all duration-300 relative"
       onMouseEnter={() => setIsOpen(true)}
       onMouseLeave={() => setIsOpen(false)}
+      onClick={() => setIsOpen((prev) => !prev)}
+      onKeyDown={(e) => e.key === "Enter" && setIsOpen((prev) => !prev)}
+      
     >
-      <div className=" py-1 px-3 inset-y-0 right-3  items-center pointer-events-none text-gray-500  flex justify-between group ">
+      <div className="py-1 px-3 flex justify-between items-center text-gray-500 group">
         <div className="text-[13px] text-brand-green group-hover:text-white transition-all duration-300">
           {activeSelectValue.label}
         </div>
@@ -60,7 +60,11 @@ function ProductsSortDropdown() {
             <li
               key={option.value}
               className="hover:bg-gray-100"
-              onClick={() => handleSelectValue(option.value)}
+            onClick={(e) => {
+            e.stopPropagation(); // 👈 Klik tepaga o'tib ketmasligi va dropdown yopilib qolmasligi uchun shart!
+            handleSelectValue(option.value);
+            setIsOpen(false); // Element tanlangach dropdown yopiladi
+          }}
             >
               <span className="block text-[13px]  py-1.5 px-3">
                 {option.label}

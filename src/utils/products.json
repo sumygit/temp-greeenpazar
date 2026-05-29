@@ -1,162 +1,162 @@
 [
   {
-    "name": "avant-garde lamp",
+    "name": "Avant-garde Lamp",
     "company": "Modenza",
     "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/943150/pexels-photo-943150.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "/images/products/product_11.png",
     "images": [
-      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
-      "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg",
-      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg",
-      "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg"
+      "/images/products/product_11.png",
+      "/images/products/product_12.png",
+      "/images/products/product_19.png",
+      "/images/products/product_25.png",
+      "/images/products/product_31.png"
     ],
     "price": 100,
     "clerkId": "user_2p9x..."
   },
   {
-    "name": "minimalist desk",
+    "name": "Minimalist Desk",
     "company": "Modenza",
     "description": "Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/1297611/pexels-photo-1297611.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "/images/products/product_12.png",
     "images": [
-      "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
-      "https://images.pexels.com/photos/2220316/pexels-photo-2220316.jpeg",
-      "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg",
-      "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg",
-      "https://images.pexels.com/photos/30156677/pexels-photo-30156677.jpeg"
+      "/images/products/product_12.png",
+      "/images/products/product_14.png",
+      "/images/products/product_22.png",
+      "/images/products/product_28.png",
+      "/images/products/product_36.png"
     ],
     "price": 450,
     "clerkId": "user_2p9x..."
   },
   {
-    "name": "modern sofa",
-    "company": "ComfortCo",
-    "description": "Kinfolk microdosing gochujang live-edge. Tofu snackwave mustache bicycle rights.",
+    "name": "Nordic Chair",
+    "company": "Luxora",
+    "description": "Palo santo tilde coloring book heirloom adaptogen lo-fi listicle celiac chartreuse.",
     "featured": false,
-    "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "/images/products/product_13.png",
     "images": [
-      "https://images.pexels.com/photos/2897531/pexels-photo-2897531.jpeg",
-      "https://images.pexels.com/photos/1124468/pexels-photo-1124468.jpeg",
-      "https://images.pexels.com/photos/3622608/pexels-photo-3622608.jpeg",
-      "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg",
-      "https://images.pexels.com/photos/1342609/pexels-photo-1342609.jpeg"
+      "/images/products/product_13.png",
+      "/images/products/product_11.png",
+      "/images/products/product_17.png",
+      "/images/products/product_24.png",
+      "/images/products/product_33.png"
     ],
-    "price": 890,
+    "price": 320,
     "clerkId": "user_2p9x..."
   },
   {
-    "name": "industrial shelf",
-    "company": "IronWorks",
-    "description": "Brooklyn heirloom taxidermy, synth sriracha direct trade pok pok chillwave.",
+    "name": "Velvet Sofa",
+    "company": "Artifex",
+    "description": "Humblebrag fanny pack aesthetic kale chips distillery fixie slow-carb semiotics franzen.",
     "featured": true,
-    "image": "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "/images/products/product_21.png",
     "images": [
-      "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg",
-      "https://images.pexels.com/photos/1007018/pexels-photo-1007018.jpeg",
-      "https://images.pexels.com/photos/3490348/pexels-photo-3490348.jpeg",
-      "https://images.pexels.com/photos/2294342/pexels-photo-2294342.jpeg",
-      "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg"
+      "/images/products/product_21.png",
+      "/images/products/product_10.png",
+      "/images/products/product_20.png",
+      "/images/products/product_27.png",
+      "/images/products/product_34.png"
     ],
-    "price": 180,
+    "price": 870,
     "clerkId": "user_2p9x..."
   },
   {
-    "name": "ceramic vase",
-    "company": "ArtisanHub",
-    "description": "Plaid dreamcatcher listicle stumptown cold-pressed craft beer drinking vinegar.",
+    "name": "Ceramic Vase",
+    "company": "Luxora",
+    "description": "Typewriter ugh whatever neutra tbh normcore gentrify woke swag marfa tote bag.",
     "featured": false,
-    "image": "https://images.pexels.com/photos/1329444/pexels-photo-1329444.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "/images/products/product_22.png",
     "images": [
-      "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg",
-      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
-      "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
-      "https://images.pexels.com/photos/19895835/pexels-photo-19895835.jpeg"
+      "/images/products/product_22.png",
+      "/images/products/product_13.png",
+      "/images/products/product_21.png",
+      "/images/products/product_29.png",
+      "/images/products/product_35.png"
+    ],
+    "price": 75,
+    "clerkId": "user_2p9x..."
+  },
+  {
+    "name": "Wooden Bookshelf",
+    "company": "Comfora",
+    "description": "Meditation wolf cronut enamel pin sustainable tilde messenger bag migas echo park.",
+    "featured": false,
+    "image": "/images/products/product_25.png",
+    "images": [
+      "/images/products/product_23.png",
+      "/images/products/product_18.png",
+      "/images/products/product_23.png",
+      "/images/products/product_30.png",
+      "/images/products/product_36.png"
+    ],
+    "price": 560,
+    "clerkId": "user_2p9x..."
+  },
+  {
+    "name": "Marble Coffee Table",
+    "company": "Artifex",
+    "description": "Biodiesel roof party cred hoodie four dollar toast squid retro williamsburg snackwave.",
+    "featured": true,
+    "image": "/images/products/product_26.png",
+    "images": [
+      "/images/products/product_30.png",
+      "/images/products/product_9.png",
+      "/images/products/product_16.png",
+      "/images/products/product_32.png",
+      "/images/products/product_35.png"
+    ],
+    "price": 1200,
+    "clerkId": "user_2p9x..."
+  },
+  {
+    "name": "Pendant Light",
+    "company": "Modenza",
+    "description": "Activated charcoal chia locavore intelligentsia truffaut yr shabby chic vegan food truck.",
+    "featured": false,
+    "image": "/images/products/product_18.png",
+    "images": [
+      "/images/products/product_35.png",
+      "/images/products/product_11.png",
+      "/images/products/product_15.png",
+      "/images/products/product_26.png",
+      "/images/products/product_33.png"
+    ],
+    "price": 230,
+    "clerkId": "user_2p9x..."
+  },
+  {
+    "name": "Linen Bed Frame",
+    "company": "Comfora",
+    "description": "Beard cold-pressed stumptown banh mi craft beer pour-over cliche af chicharrones.",
+    "featured": true,
+    "image": "/images/products/product_22.png",
+    "images": [
+      "/images/products/product_37.png",
+      "/images/products/product_14.png",
+      "/images/products/product_20.png",
+      "/images/products/product_28.png",
+      "/images/products/product_34.png"
+    ],
+    "price": 990,
+    "clerkId": "user_2p9x..."
+  },
+  {
+    "name": "Rattan Basket",
+    "company": "Luxora",
+    "description": "Gastropub tumeric shaman tote bag jianbing organic sartorial hell of gluten-free.",
+    "featured": false,
+    "image": "/images/products/product_30.png",
+    "images": [
+      "/images/products/product_32.png",
+      "/images/products/product_8.png",
+      "/images/products/product_17.png",
+      "/images/products/product_23.png",
+      "/images/products/product_31.png"
     ],
     "price": 45,
-    "clerkId": "user_2p9x..."
-  },
-  {
-    "name": "wooden table",
-    "company": "LuxeHome",
-    "description": "Gochujang humblecore aesthetic occupy messenger bag literally fixie.",
-    "featured": true,
-    "image": "https://images.pexels.com/photos/3201768/pexels-photo-3201768.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "images": [
-      "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg",
-      "https://images.pexels.com/photos/2220316/pexels-photo-2220316.jpeg",
-      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg",
-      "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg",
-      "https://images.pexels.com/photos/3622608/pexels-photo-3622608.jpeg"
-    ],
-    "price": 620,
-    "clerkId": "user_2p9x..."
-  },
-  {
-    "name": "abstract painting",
-    "company": "GalleryX",
-    "description": "Vexillologist yr dreamcatcher waistcoat authentic chillwave trust fund viral.",
-    "featured": false,
-    "image": "https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "images": [
-      "https://images.pexels.com/photos/2897531/pexels-photo-2897531.jpeg",
-      "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg",
-      "https://images.pexels.com/photos/1124468/pexels-photo-1124468.jpeg",
-      "https://images.pexels.com/photos/1342609/pexels-photo-1342609.jpeg",
-      "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg"
-    ],
-    "price": 300,
-    "clerkId": "user_2p9x..."
-  },
-  {
-    "name": "plush armchair",
-    "company": "ComfortCo",
-    "description": "Typewriter fingerstache pinterest pork belly narwhal schlitz venmo.",
-    "featured": true,
-    "image": "https://images.pexels.com/photos/4857781/pexels-photo-4857781.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "images": [
-      "https://images.pexels.com/photos/1007018/pexels-photo-1007018.jpeg",
-      "https://images.pexels.com/photos/3490348/pexels-photo-3490348.jpeg",
-      "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg",
-      "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
-      "https://images.pexels.com/photos/2294342/pexels-photo-2294342.jpeg"
-    ],
-    "price": 350,
-    "clerkId": "user_2p9x..."
-  },
-  {
-    "name": "bedside clock",
-    "company": "Modenza",
-    "description": "Everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund.",
-    "featured": false,
-    "image": "https://images.pexels.com/photos/1198264/pexels-photo-1198264.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "images": [
-      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
-      "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg",
-      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
-      "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg",
-      "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg"
-    ],
-    "price": 25,
-    "clerkId": "user_2p9x..."
-  },
-  {
-    "name": "floor mirror",
-    "company": "LuxeHome",
-    "description": "Semiotics cold-pressed heirloom, ugh bicycle rights wolf mumblecore sustainable.",
-    "featured": true,
-    "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    "images": [
-      "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg",
-      "https://images.pexels.com/photos/2220316/pexels-photo-2220316.jpeg",
-      "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
-      "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg",
-      "https://images.pexels.com/photos/3622608/pexels-photo-3622608.jpeg"
-    ],
-    "price": 275,
     "clerkId": "user_2p9x..."
   }
 ]

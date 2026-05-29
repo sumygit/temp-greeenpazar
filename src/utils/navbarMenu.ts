@@ -10,5 +10,4 @@ export const navMenu :NavMenuItem[]= [
 	  { name: "Reviews", href: "/reviews" },
 	  { name: "Cart", href: "/cart" },
 	  { name: "Orders", href: "/orders" },
-	  { name: "Components", href: "/all-components" },
 ]

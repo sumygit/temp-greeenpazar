@@ -42,7 +42,6 @@ function ProductItemQuickview({ product }: { product: Product }) {
             setIsOpen(false);
           }}
         >
-          Modal Kontenti
           <div
             className="relative bg-white shadow-2xl rounded-xl w-[95%] max-w-5xl max-[760px]:h-[85vh] m-auto p-6 overflow-y-auto animate-in zoom-in-95 duration-200 "
             onClick={(e) => {

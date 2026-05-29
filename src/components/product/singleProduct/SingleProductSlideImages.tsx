@@ -60,6 +60,7 @@ function SingleProductSlideImages({ images, activeIndex, setActiveIndex }: Slide
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 className="object-cover object-top  transition-all duration-300"
                 onMouseEnter={() => setActiveIndex(index)}
+                onClick={() => setActiveIndex(index)}
               />
             </li>
           ))}

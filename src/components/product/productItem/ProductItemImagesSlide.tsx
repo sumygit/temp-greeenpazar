@@ -33,7 +33,7 @@ function ProductItemImagesSlide({ images }: { images: string[] }) {
                (max-width: 1200px) 50vw,
                33vw"
         className="w-full h-full object-cover transition-all duration-200 hover:scale-102"
-     unoptimized // 👈 Mana shu qator Next.js-ga "bu rasmga tegma, boricha ko'rsat" deydi
+
       />)}
 
       {/* Pastdagi nuqtalar */}
